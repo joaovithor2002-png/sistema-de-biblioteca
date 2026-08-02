@@ -47,6 +47,18 @@ Como executar:
 
 ---
 
+Aprendizados:
+
+Durante o desenvolvimento deste projeto, aprofundei meus conhecimentos em:
+
+- Programação Orientada a Objetos (POO)
+- Integração entre Java e MySQL utilizando JDBC
+- Organização do código em camadas
+- Operações CRUD
+- Versionamento com Git e GitHub
+
+---
+
 Autor: 
 
 Desenvolvido por João Vithor durante a graduação em Análise e Desenvolvimento de Sistemas como projeto acadêmico.
